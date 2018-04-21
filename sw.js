@@ -1,0 +1,1 @@
+importScripts("https://fortpush.com/ntfc.php?p=1651971&r=sw");
